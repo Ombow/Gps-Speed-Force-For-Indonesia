@@ -1,2 +1,5 @@
 # Gps-Speed-Force-For-Indonesia
-This module for Fast Lock Location in Indonesia. Try this for Miui/Other Os may try this
+By Ombow-Bow-BenBen
+
+This module for Fast Lock Location in Indonesia.
+Specially for Miui/Other Os may try this
